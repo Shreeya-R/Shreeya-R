@@ -4,7 +4,7 @@
 Welcome to my Github page! I am an aspiring data scientist ready to kickstart the journey as a data analyst. Actively engaged in continuous professional development to enhance expertise including data analytics and statistical modelling using R, Python, SQL, AWS and Microsoft Power BI.
 
 ### 🚀 My Journey
-
+Passionate problem-solver with a comprehensive knowledge of data wrangling, visualisation and modelling. 
 
 ### 🖥️ Technical Skills
 - __Languages:__ Python, R, SQL
@@ -17,6 +17,6 @@ Welcome to my Github page! I am an aspiring data scientist ready to kickstart th
 
 <h2 align="center"> </h2> 
 
-### 📫 Reach out to me
+### 📫 Reach me through
 ![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](http://www.linkedin.com/in/shreeya-rathod-2749022a8)
 &nbsp;
