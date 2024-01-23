@@ -18,5 +18,5 @@ Welcome to my Github page! I am an aspiring data scientist ready to kickstart th
 <h2 align="center"> </h2> 
 
 ### 📫 Reach out to me
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](http://www.linkedin.com/in/shreeya-rathod-2749022a8)http://www.linkedin.com/in/shreeya-rathod-2749022a8)
+![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](http://www.linkedin.com/in/shreeya-rathod-2749022a8)
 &nbsp;
