@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Shreeya 👋 </h1> 
 <h3 align="center"> Aspiring Data Scientist | Data Analyst and Actuarial Science Graduate </h3>
 
-Welcome to my Github page! I am an aspiring data scientist ready to kickstart the journey as a data analyst. Actively engaged in continuous professional development to enhance expertise including analytics and modelling using R, Python, SQL, AWS and Microsoft Power BI.
+Welcome to my Github page! I am an aspiring data scientist ready to kickstart the journey as a data analyst. Actively engaged in continuous professional development to enhance expertise including data analytics and statistical modelling using R, Python, SQL, AWS and Microsoft Power BI.
 
 ### 🚀 My Journey
 
